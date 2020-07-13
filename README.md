@@ -4,15 +4,13 @@
 
 Testing asynchronous serverextensions.
 
-
 This extension is composed of a Python package named `async_test`
 for the server extension and a NPM package named `async-test`
 for the frontend extension.
 
-
 ## Requirements
 
-* JupyterLab >= 2.0
+- JupyterLab >= 2.0
 
 ## Install
 
